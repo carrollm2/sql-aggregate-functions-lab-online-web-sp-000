@@ -1,7 +1,4 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks.
-require 'pry'
-
-
 def highest_student_gpa
   return 'SELECT MAX(gpa) FROM students'
 end
